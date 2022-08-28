@@ -63,7 +63,7 @@ h3 {
     color: rgb(0, 211, 11);
     opacity: 0;
     transform: translateY(3rem);
-    animation: fadeInUp 2s ease calc(var(--typewriter-speed) + 2s) forwards;
+    animation: fadeInUp 1s ease calc(var(--typewriter-speed) + 2s) forwards;
 }
 
 /*------------------------------------*/
